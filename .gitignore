@@ -38,5 +38,8 @@ Thumbs.db
 # Logs
 *.log
 
+# PDF documents used for local RAG experiments
+*.pdf
+
 # Local model/cache files
 .cache/
